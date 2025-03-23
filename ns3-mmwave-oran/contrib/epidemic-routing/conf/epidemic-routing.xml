@@ -1,0 +1,12 @@
+<configuration>
+  <modules>
+    <module name="epidemic-routing" type="ns-contrib" min_version="ns-3.29">
+      <source type="git">
+        <attribute name="url" value="https://gitlab.com/tomhend/modules/epidemic-routing.git"/>
+        <attribute name="module_directory" value="epidemic-routing"/>
+      </source>
+      <build type="none">
+      </build>
+    </module>
+  </modules>
+</configuration>
